@@ -1,3 +1,5 @@
 from main import func
 
-func()
+for _ in range(5):
+	func()
+
