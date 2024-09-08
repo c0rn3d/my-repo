@@ -1,5 +1,3 @@
-def func(message):
-	print(f"Hello {message}")
+name = "GitHub"
 
-
-func("GitHub")
+print(f"Hello {name}")
