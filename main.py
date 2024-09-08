@@ -1,1 +1,5 @@
-print("Hello Github")
+def func(message):
+	print(f"Hello {message}")
+
+
+func("GitHub")
